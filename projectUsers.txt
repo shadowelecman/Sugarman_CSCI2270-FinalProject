@@ -1,0 +1,6 @@
+Shiftyface,shadow,false,0,L,X,0,0
+Batman,robin,false,0,L,X,L,0
+PlsNoEva,rei,false,L,X,X,L,0
+Roachlover,eve,false,0,L,L,X,0
+Manager,theboss,true,L,L,X,X,L
+Antimanager,antiboss,true,X,X,L,L,X
